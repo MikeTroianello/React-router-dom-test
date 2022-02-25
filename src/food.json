@@ -1,0 +1,17 @@
+[
+  {
+    "name": "bagel",
+    "type": "bread",
+    "_id": "12345"
+  },
+  {
+    "name": "steak",
+    "type": "meat",
+    "_id": "54321"
+  },
+  {
+    "name": "salad",
+    "type": "vegetable",
+    "_id": "99999"
+  }
+]
